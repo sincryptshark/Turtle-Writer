@@ -27,15 +27,9 @@ python turtle_writer.py
 ```
 When prompted, input the text you want to draw and customize settings like color and speed as required.
 
-## Contributing
-Contributions are what make the open-source community such a fantastic place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-To contribute:
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+## Join My Telegram Channel To Explore More Projects Like This 
+```bash
+t.me/sincryption
+```
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
