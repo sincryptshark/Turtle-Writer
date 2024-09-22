@@ -21,6 +21,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
+**Note**: This program should be run as the root user on Linux systems for proper execution.
+
 Run the program using Python:
 ```bash
 python turtle_writer.py
