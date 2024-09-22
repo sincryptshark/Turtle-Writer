@@ -6,8 +6,6 @@ Turtle Writer is a Python project that utilizes the Turtle graphics library to d
 
 ## Features
 - **User Input**: Users can type any text they wish to see drawn.
-- **Color Customization**: The color of the turtle and text can be customized.
-- **Drawing Speed Adjustment**: Users can set the speed of the drawing to see quick sketches or detailed drawing processes.
 
 ## Installation
 Clone the repository and navigate into the project directory:
