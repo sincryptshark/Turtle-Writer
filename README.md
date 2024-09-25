@@ -38,8 +38,8 @@ python turtle_writer.py
 When prompted, input the text you want to draw and customize settings like color and speed as required.
 
 ## Join My Telegram Channel To Explore More Projects Like This 
-```
+
 t.me/sincryption
-```
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
