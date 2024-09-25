@@ -13,10 +13,19 @@ Clone the repository and navigate into the project directory:
 git clone https://github.com/sincryptshark/Turtle-Writer.git
 cd Turtle-Writer
 ```
-Install any necessary dependencies:
+
+# Install Tkinter for Python on Linux
+
+## For Ubuntu/Debian:
 ```bash
-pip install -r requirements.txt
+sudo apt-get install python3-tk
 ```
+
+## For RedHat/CentOS/Fedora:
+```bash
+sudo yum install python3-tkinter
+```
+
 
 ## Usage
 
@@ -29,7 +38,7 @@ python turtle_writer.py
 When prompted, input the text you want to draw and customize settings like color and speed as required.
 
 ## Join My Telegram Channel To Explore More Projects Like This 
-```bash
+```
 t.me/sincryption
 ```
 ## License
